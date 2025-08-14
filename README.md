@@ -27,9 +27,9 @@ Installation
 App Screenshots:- 
 
 **1. List Screen: -**
-Infinite/paginated list (FlatList) of launches with mission name, date, image, and status
-Search by mission name (client-side)
-Pull-to-refresh
+-    Infinite/paginated list (FlatList) of launches with mission name, date, image, and status
+-    Search by mission name (client-side)
+-    Pull-to-refresh
 
 iOS: -
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-12 at 23 29 01" src="https://github.com/user-attachments/assets/264764e1-32d1-45c1-a809-6da2d090e631" />
@@ -40,14 +40,14 @@ Android: -
 <img width="1080" height="2400" alt="Screenshot_1755021662" src="https://github.com/user-attachments/assets/de01cd77-5fa7-4f8a-87b5-0a8941ff2440" />
 
 **2.Details Screen**
-Show launchpad info.
-Map tab/section:
-Show launchpad location on map
-Request device location permission
-Show user’s current location on the map
-Quick action to open native Maps app with directions.
-Open native Maps app (Google Maps/Apple Maps) for navigation
-Handle permission denial with clear UX.
+-    Show launchpad info.
+-    Map tab/section:
+-    Show launchpad location on map
+-    Request device location permission
+-    Show user’s current location on the map
+-    Quick action to open native Maps app with directions.
+-    Open native Maps app (Google Maps/Apple Maps) for navigation
+-    Handle permission denial with clear UX.
 
 iOS: -
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-12 at 23 29 10" src="https://github.com/user-attachments/assets/6e49c56e-fb5e-4e14-98f6-b058f8224dd2" />
