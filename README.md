@@ -6,9 +6,7 @@ SpaceX API used: -
 https://api.spacexdata.com/v5/launches 
 https://api.spacexdata.com/v4/launchpads/:id.
 
-App Structure & Tech used:-
-
-Expo SDK 53, React Native, TypeScript
+**App Structure & Tech used:- **Expo SDK 53, React Native, TypeScript
 
 Installation
 - You need following packages to run this application : -
