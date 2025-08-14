@@ -26,7 +26,7 @@ Installation
 
 App Screenshots:- 
 
-List Screen: -
+**1. List Screen: -**
 Infinite/paginated list (FlatList) of launches with mission name, date, image, and status
 Search by mission name (client-side)
 Pull-to-refresh
@@ -39,7 +39,7 @@ iOS: -
 Android: -
 <img width="1080" height="2400" alt="Screenshot_1755021662" src="https://github.com/user-attachments/assets/de01cd77-5fa7-4f8a-87b5-0a8941ff2440" />
 
-**Details Screen**
+**2.Details Screen**
 Show launchpad info.
 Map tab/section:
 Show launchpad location on map
